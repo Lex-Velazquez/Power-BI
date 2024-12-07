@@ -1,4 +1,3 @@
-# Power BI
 # Análisis de una empresa X
 
 ## Contexto
